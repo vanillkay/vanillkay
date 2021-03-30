@@ -1,4 +1,4 @@
--👋 Hi, I’m Andrew Shkurenko (@vanillkay)
+👋 Hi, I’m Andrew Shkurenko (@vanillkay)
 - 👀 I’m interested in JavaScript, Java
 - 🌱 I’m currently learning Java
 
